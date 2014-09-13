@@ -1,4 +1,4 @@
-<?php  defined('SYSPATH') or die('No direct script access.');
+<?php  defined('APPPATH') or die('No direct script access.');
 ?>
 <!DOCTYPE html>
 <head>
@@ -9,4 +9,5 @@
 <body>
 	<h1>Nous transférons</h1>
 	<table></table>
+	<a href="/file">DL</a>
 </body>
