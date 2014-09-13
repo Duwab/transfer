@@ -9,5 +9,6 @@
 <body>
 	<h1>Nous transférons</h1>
 	<table></table>
-	<a href="/file">DL</a>
+	<a href="/file/austin.mp3">Austin</a>
+	<a href="/alias/vengeance.rar">Vengeance</a>
 </body>
